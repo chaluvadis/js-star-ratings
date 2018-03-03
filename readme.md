@@ -1,0 +1,1 @@
+## This is a smiple star rating application using Javascript and CSS3.
